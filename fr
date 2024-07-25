@@ -1,1 +1,1 @@
-Language|Français/Load Script|Charger un script/Script Store|Magasin de script/Settings|Paramètre
+Language|Français/Load Script|Charger un script/Script Store|Magasin de script/Settings|Paramètre/Back|Retour
