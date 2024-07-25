@@ -1,1 +1,1 @@
-Lang_name|Français/Language|Langue :/Load Script|Charger un script/Script Store|Magasin de script/Settings|Paramètre/Back|Retour
+Lang_name|Français/Language|Langue :/Load Script|Charger un script/Script List|Liste des script/Settings|Paramètre/Back|Retour
